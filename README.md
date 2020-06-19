@@ -1,2 +1,2 @@
-# textfun
+# Text Fun
 Text Fun with Pyfiglet
